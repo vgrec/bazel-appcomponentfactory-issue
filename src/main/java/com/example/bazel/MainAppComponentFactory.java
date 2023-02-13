@@ -9,7 +9,7 @@ import android.util.Log;
 public class MainAppComponentFactory extends AppComponentFactory {
 
     public MainAppComponentFactory() {
-        System.out.println("GREC_T, init");
+        Log.d("GREC_T", "factory init");
     }
 
     @Override
