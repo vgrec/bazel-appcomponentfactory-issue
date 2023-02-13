@@ -1,5 +1,5 @@
 ## Description
-This is a POC project showcasing the `ClassNotFoundException` when using a custom `AppComponentFactory` in a Bazel project with `mobile-install`  
+This is a POC project showcasing the `ClassNotFoundException` when using a custom `AppComponentFactory` in a Bazel project and building with `mobile-install`  
 
 To run the project you need to update/comment-out the `android_sdk_repository(path = '..')` from the `WORKSPACE` file.
 
